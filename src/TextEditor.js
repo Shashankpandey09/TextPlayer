@@ -178,6 +178,7 @@ const handleTextModify = (property, value) => {
           <option value="50px">50px</option>
           <option value="100px">100px</option>
           <option value="150px">150px</option>
+          <option value="200px">200px</option>
         </select>
 
         <label htmlFor="fontFamily">Font Family:</label>
@@ -241,7 +242,7 @@ const handleTextModify = (property, value) => {
           Please check the RGB/HSL/HEX value when selecting color for text.🌟
         </p>
         <p>
-          Made with love by <strong>Prakhar</strong> ❤️
+          Made with love by <strong>Shashank</strong> ❤️
         </p>
       </div>
     </div>
